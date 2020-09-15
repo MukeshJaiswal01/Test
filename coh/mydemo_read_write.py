@@ -63,11 +63,11 @@ def main(event_loop):
     })
     t.start()
     contract_instance = evc.generate_contract_sdk(
-        contract_address='0x551843137abb5287310df2b2ddef42efa0c6fb79',
+        contract_address='0xab3b558a920ff2691f5d5923c474b02cf84ddfc3',
         app_name='myDemoContract'
     )
     auditlog_contract_instance = evc.generate_contract_sdk(
-        contract_address='0x7e1bf179731865b1484cd634993832756e9e9f29',
+        contract_address='0xe7c9bfc1e19587de9aed19d6eb51697c7da3451b',
         app_name='myAuditLog'
     )
     try:
