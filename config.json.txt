@@ -1,8 +1,8 @@
 {
         "nearNetworkId": "testnet",
         "nearNodeUrl": "https://rpc.testnet.near.org/",
-        "ethNodeUrl": "https://ropsten.infura.io/v3/1cb78e27ec6142c991b498262cfc127f",
-        "nearMasterAccount": "<near_token_holder_account>",
+        "ethNodeUrl": "https://rinkeby.infura.io/v3/1cb78e27ec6142c991b498262cfc127f",
+        "nearMasterAccount": "mukesh_01.testnet",
         "nearMasterSk": "<near_token_holder_sk>",
         "nearClientAccount": "ethonnearclient10",
         "nearProverAccount": "ethonnearprover10",
